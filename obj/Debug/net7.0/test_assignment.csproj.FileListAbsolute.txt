@@ -1,0 +1,14 @@
+/Users/peeterkibe/Documents/korvaline/test_assignment/bin/Debug/net7.0/test_assignment
+/Users/peeterkibe/Documents/korvaline/test_assignment/bin/Debug/net7.0/test_assignment.deps.json
+/Users/peeterkibe/Documents/korvaline/test_assignment/bin/Debug/net7.0/test_assignment.runtimeconfig.json
+/Users/peeterkibe/Documents/korvaline/test_assignment/bin/Debug/net7.0/test_assignment.dll
+/Users/peeterkibe/Documents/korvaline/test_assignment/bin/Debug/net7.0/test_assignment.pdb
+/Users/peeterkibe/Documents/korvaline/test_assignment/obj/Debug/net7.0/test_assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peeterkibe/Documents/korvaline/test_assignment/obj/Debug/net7.0/test_assignment.AssemblyInfoInputs.cache
+/Users/peeterkibe/Documents/korvaline/test_assignment/obj/Debug/net7.0/test_assignment.AssemblyInfo.cs
+/Users/peeterkibe/Documents/korvaline/test_assignment/obj/Debug/net7.0/test_assignment.csproj.CoreCompileInputs.cache
+/Users/peeterkibe/Documents/korvaline/test_assignment/obj/Debug/net7.0/test_assignment.dll
+/Users/peeterkibe/Documents/korvaline/test_assignment/obj/Debug/net7.0/refint/test_assignment.dll
+/Users/peeterkibe/Documents/korvaline/test_assignment/obj/Debug/net7.0/test_assignment.pdb
+/Users/peeterkibe/Documents/korvaline/test_assignment/obj/Debug/net7.0/test_assignment.genruntimeconfig.cache
+/Users/peeterkibe/Documents/korvaline/test_assignment/obj/Debug/net7.0/ref/test_assignment.dll
